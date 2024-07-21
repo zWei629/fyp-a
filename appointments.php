@@ -20,7 +20,7 @@ include('src/conn.php');
     <?php
     include('src/session_check.php');
     echo youAreHere("Appointments");
-  
+  //test
     $id = $_SESSION['log']['Id'];
     if ($_SESSION['log1'] == "user") {
     ?>
