@@ -18,6 +18,7 @@ include('src/conn.php');
     <!--=========== END HEADER SECTION ================-->
 
     <?php
+    //gg
     include('src/session_check.php');
     echo youAreHere("Appointments");
   //test
